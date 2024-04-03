@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_TER.html</loc>
+    <lastmod>2024-04-03T13:21:32.008Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_publications.html</loc>
+    <lastmod>2024-04-03T13:19:03.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_hps3u03.html</loc>
+    <lastmod>2024-04-03T13:18:49.921Z</lastmod>
+  </url>
+  <url>
     <loc>https://jeremybena.github.io/amu_jeremybena/page_cours.html</loc>
-    <lastmod>2024-04-03T12:43:39.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jeremybena.github.io/amu_jeremybena/page_recherche.html</loc>
-    <lastmod>2024-04-03T12:43:56.048Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jeremybena.github.io/amu_jeremybena/index.html</loc>
-    <lastmod>2024-04-03T12:48:13.302Z</lastmod>
+    <lastmod>2024-04-03T13:17:35.833Z</lastmod>
   </url>
   <url>
     <loc>https://jeremybena.github.io/amu_jeremybena/about.html</loc>
-    <lastmod>2024-04-03T12:51:22.069Z</lastmod>
+    <lastmod>2024-04-03T12:59:32.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/index.html</loc>
+    <lastmod>2024-04-03T13:01:56.889Z</lastmod>
   </url>
   <url>
     <loc>https://jeremybena.github.io/amu_jeremybena/page_cv.html</loc>
-    <lastmod>2024-04-03T12:55:31.799Z</lastmod>
+    <lastmod>2024-04-03T13:09:08.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_hps5u07.html</loc>
+    <lastmod>2024-04-03T13:28:03.906Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_recherche.html</loc>
+    <lastmod>2024-04-03T13:17:49.562Z</lastmod>
   </url>
 </urlset>
