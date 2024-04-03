@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "page_cours.html",
+    "href": "page_cours.html",
+    "title": "Contenus de cours dispensés à Aix-Marseille Université",
+    "section": "",
+    "text": "AAAA"
+  },
+  {
+    "objectID": "page_recherche.html",
+    "href": "page_recherche.html",
+    "title": "Thématiques de recherche et publications",
+    "section": "",
+    "text": "AAAAA"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Page d’accueil : informations générales",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Jérémy Béna, Maître de conférences en psychologie, Aix-Marseille Université, Centre de Recherche en Psychologie et Neurosciences (CRPN, UMR 7077).\n@ : jeremy.bena@univ-amu.fr\nCe site présente des contenus de cours dispensés à Aix-Marseille Université et mes activités de recherche.\n\nPage Contenus de cours"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "À propos",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Ce site, hébérgé sur GitHub et créé avec RStudio et Quarto, présente des contenus utiles dans le cadre des cours que je dispense à Aix-Marseille Université ainsi que mes activités de recherche. Vous pouvez consulter mon CV en cliquant ici.\nPour toute requête concernant les contenus de ce site, merci de me contacter."
+  },
+  {
+    "objectID": "page_cv.html",
+    "href": "page_cv.html",
+    "title": "Eléments de présentation : CV",
+    "section": "",
+    "text": "AAAAA"
   }
 ]
