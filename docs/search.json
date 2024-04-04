@@ -53,21 +53,21 @@
     "href": "page_publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Empty"
+    "text": "En construction – voir CV"
   },
   {
     "objectID": "page_hps3u03.html",
     "href": "page_hps3u03.html",
-    "title": "Cours : ZZZZZ",
+    "title": "Cours : [Intitulé]",
     "section": "",
-    "text": "Empty"
+    "text": "En construction."
   },
   {
     "objectID": "page_cours.html",
     "href": "page_cours.html",
     "title": "Cours : aperçu général",
     "section": "",
-    "text": "Empty"
+    "text": "En construction."
   },
   {
     "objectID": "about.html",
@@ -84,24 +84,31 @@
     "text": "[pages en développement. inutilisables et non-informatives en l’état.]\nJérémy Béna, Maître de conférences en psychologie, Aix-Marseille Université, Centre de Recherche en Psychologie et Neurosciences (CRPN, UMR 7077).\n@ : jeremy.bena@univ-amu.fr\nCe site présente des contenus de cours dispensés à Aix-Marseille Université (Psychologie, méthodes, statistiques) et mes activités de recherche."
   },
   {
-    "objectID": "page_cv.html",
-    "href": "page_cv.html",
+    "objectID": "page_cv.html#march-2022---august-2023",
+    "href": "page_cv.html#march-2022---august-2023",
     "title": "Eléments de présentation : CV",
-    "section": "",
-    "text": "AAAAA"
+    "section": "March 2022 - August 2023",
+    "text": "March 2022 - August 2023\nPost-doctoral fellowship funded by the Fonds Special de Recherche (FSR, UCLouvain, Belgium).\nProject entitled: “Investigating ‘reversed’ truth effects.”\nSupervisor: Prof. Olivier Corneille\nBrief overview of the project:\n\nThe Internet facilitates access to veridical but also to false and misleading information. False and misleading information manifests itself in, e.g., fake news, conspiracy theories, and rumors, and it may be detrimental to individuals and to social groups (e.g., by promoting harmful health practices or uninformed voting behavior). An important finding is that repeated exposure to information typically increases its perceived truth. This effect of repetition has been coined the repetition-induced truth effect (or truth effect). The truth effect is commonly accounted for in terms of fluency (ease of processing) and familiarity: repeated exposure makes statements easier to process, and this metacognitive feeling of fluency is then misattributed to truth.\n\n\n\nThe truth effect makes it possible that false information becomes subjectively more true simply by being shared and repeatedly encountered. In contrast to this well-established study of the truth effect, this project aims to further our understanding of when repeated exposure may actually denote falsehood and of what happens when falsehood judgments are substituted for truth judgments."
+  },
+  {
+    "objectID": "page_cv.html#march-2021---march-2022",
+    "href": "page_cv.html#march-2021---march-2022",
+    "title": "Eléments de présentation : CV",
+    "section": "March 2021 - March 2022",
+    "text": "March 2021 - March 2022\nPost-doctoral researcher at UCLouvain, Belgium (2021-2022). Supervisor: Prof. Olivier Corneille\nMain topic: Evaluative conditioning (i.e., change of the valence of a neutral stimulus in the direction of the valenced stimulus it was paired with).\n\n“Relational” evaluative conditioning procedures.\n\n\nWe studied whether “relational” evaluative conditioning procedures (e.g., a neutral stimulus is said to cause or prevent a valenced stimulus) create mixed feelings (as measured with mouse tracking and attitudinal ambivalence scales). Such a result would support the view that multiple attitude learning processes exist, rather than a single process. We also study whether effects found in “relational” evaluative conditioning procedures extend to “instructed” procedures, where no direct experience of the pairings is involved.\n\n\n\nIs attitude acquisition (partly) uncontrolled?\n\n\nWe studied whether attitude acquisition can be uncontrolled at all (e.g., if uncontrolled attitude formation exists, individuals may sometimes judge as negative a neutral stimulus paired with a negative stimulus, even if they oppose this impression formation). We developed a new paradigm in which a neutral stimulus is paired with two valenced US whose valence is the same (congruent trials) or opposite (incongruent trials). Participants have to form an impression of the neutral stimulus based on one valenced image while discarding the influence of the other valenced image.\n\n\n\nMethods to compare performance on several tasks.\n\n\nWe applied a method to test dissociation hypotheses about performance on direct and indirect attitude measures while preventing comparisons based on structurally unfitted tasks (which creates confounds).\n\n\n\nAside: Truth effect research.\n\n\nAs an aside, I also work on the truth effect (repetition increases statements’ perceived truth) with the help of research assistants and students. We investigated whether evidence for the truth effect can be found on highly implausible statements (e.g., “The Earth is a perfect square”). We also tested whether using valenced pictures to provide truth judgments changes the size of the truth effect (i.e., responding “true” and “false” using a positive or a negative image)."
   },
   {
     "objectID": "page_hps5u07.html",
     "href": "page_hps5u07.html",
-    "title": "Cours ZZZZZ",
+    "title": "Cours [Autre intitulé]",
     "section": "",
-    "text": "Empty"
+    "text": "En construction."
   },
   {
     "objectID": "page_recherche.html",
     "href": "page_recherche.html",
     "title": "Thématiques de recherche",
     "section": "",
-    "text": "Empty"
+    "text": "En construction – voir CV"
   }
 ]
