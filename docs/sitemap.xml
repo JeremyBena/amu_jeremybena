@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/JeremyBena/jcjc_repeti/page_cours.html</loc>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_ter_thematique.html</loc>
+    <lastmod>2025-09-23T08:57:25.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_publications.html</loc>
+    <lastmod>2025-09-23T08:57:25.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_cv.html</loc>
+    <lastmod>2025-09-23T08:57:25.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/index.html</loc>
+    <lastmod>2025-09-23T08:57:25.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/about.html</loc>
+    <lastmod>2025-09-23T08:57:25.028Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_cours.html</loc>
     <lastmod>2025-09-23T08:57:25.111Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/JeremyBena/jcjc_repeti/about.html</loc>
-    <lastmod>2025-09-23T10:14:22.269Z</lastmod>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_hps3u03.html</loc>
+    <lastmod>2025-09-23T08:57:25.119Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/JeremyBena/jcjc_repeti/index.html</loc>
-    <lastmod>2025-09-23T10:14:58.152Z</lastmod>
+    <loc>https://jeremybena.github.io/amu_jeremybena/page_recherche.html</loc>
+    <lastmod>2025-09-23T08:57:25.127Z</lastmod>
   </url>
 </urlset>

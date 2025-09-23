@@ -1,1 +1,1 @@
-Sitemap: https://github.com/JeremyBena/jcjc_repeti/sitemap.xml
+Sitemap: https://jeremybena.github.io/amu_jeremybena/sitemap.xml
