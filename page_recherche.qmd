@@ -1,0 +1,15 @@
+---
+title: "Thématiques de recherche"
+---
+
+En construction -- voir [CV](page_cv.qmd)
+
+_Principaux intérêts de recherche :  Mémoire, croyances, attitudes, et influence de la mémoire dans les croyances et attitudes._
+
+<div style="text-align: justify"> 
+J'étudie la façon dont la mémoire est impliquée dans des évaluations (croyances ; attitudes). Le point de départ est que la mémoire ne s’exprime pas uniquement dans des déclarations de se souvenir dans des tâches directes de mémoire (e.g., rappel ; reconnaissance) : elle s’exprime également dans des tâches où l’objet n’est pas la mémoire, mais est, par exemple, l’évaluation des propriétés d’un item (e.g., la vérité d’une affirmation ; le caractère positif d’une image). Dans ce cadre, j'utilise des méthodes et outils variés (Procédures de Dissociation des Processus, modèles multinomiaux d'arbres de traitement, dissociation de tâches, paradigme Remember/Know ; développement de nouvelles approches comme des mesures d'ambivalence).
+</div>
+
+<div style="text-align: justify"> 
+Deux phénomènes m'intéressent particulièrement : l’effet de vérité (l'exposition répétée augmente la vérité perçue des informations) et l’effet de conditionnement évaluatif (les évaluations de stimuli initialement neutres sont davantage positives après l'exposition répétée d'un stimulus neutre avec un stimulus positif plutôt que négatif). 
+</div><br>
