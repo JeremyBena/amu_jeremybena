@@ -1,15 +1,16 @@
 ---
-title: "website"
+title: "Page d'accueil : informations générales"
 ---
 
-This is a Quarto website.
+**[Pages en développement]**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Jérémy Béna, Maître de conférences en psychologie, Aix-Marseille Université, Centre de Recherche en Psychologie et Neurosciences (CRPN, UMR 7077).
 
-```{r}
-1 + 1
-```
+@ : <a href="mailto:jeremy.bena@univ-amu.fr">jeremy.bena@univ-amu.fr</a>
 
+Ce site présente des [contenus de cours dispensés à Aix-Marseille Université (psychologie, méthodes, statistiques)](page_cours.qmd) et [mes activités de recherche](page_recherche.qmd).
+
+Pour en savoir davantage sur le projet JCJC ANR "REPETI", voir : [https://jeremybena.github.io/jcjc_repeti/](https://jeremybena.github.io/jcjc_repeti/)
 <!-- quarto render -->
 <!-- git add docs -->
 <!-- git commit -m "Publish site to docs/" -->

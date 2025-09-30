@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "À propos"
 ---
 
-About this site
+Ce site, hébergé sur GitHub et créé avec RStudio et Quarto, présente des contenus utiles dans le cadre des cours que je donne à Aix-Marseille Université ainsi que mes activités de recherche. [Vous pouvez consulter mon CV en cliquant ici.](page_cv.qmd)
 
-```{r}
-1 + 1
-```
+Pour toute requête concernant les contenus de ce site, merci de me <a href="mailto:jeremy.bena@univ-amu.fr">contacter</a>.

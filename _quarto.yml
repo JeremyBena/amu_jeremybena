@@ -1,18 +1,43 @@
 project:
+  # render:
+  #   - index.qmd
+  #   - about.qmd
+  #   - page_recherche.qmd
+  #   - page_cv.qmd
+  #   - page_cours.qmd
   type: website
   output-dir: docs
 
 website:
-  title: "website"
+  title: "Jérémy Béna -- Aix-Marseille Université"
+  description: "Contenus de cours AMU, Psychologie, et activités de recherche"
+  site-url: "https://jeremybena.github.io/amu_jeremybena/"
+  repo-url: "https://github.com/JeremyBena/amu_jeremybena/tree/master/docs"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Accueil
+      - text: Cours
+        menu:
+          - page_cours.qmd
+          - page_ter_thematique.qmd
+      - text: Recherche
+        menu:
+          - page_recherche.qmd
+          - page_publications.qmd
+      - href: page_cv.qmd
+        text: CV
+      - href: about.qmd
 
+    tools:
+      - icon: github
+        menu:
+          - text: Code source
+            url:  https://github.com/JeremyBena/amu_jeremybena
+            
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
