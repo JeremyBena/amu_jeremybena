@@ -2,8 +2,10 @@
 title: "Enseignements"
 ---
 
-Années universitaires 2023--2024 et 2024-2025 :
+Années universitaires depuis 2023 : Enseignements à Aix-Marseille Université, en Licence de Psychologie, Master PN4C, et MaSCO.
 
 - Psychologie cognitive (Licence)
 - Méthodes et statistiques (Licence, Master)
 - Modélisation (Master)
+- Suivi de travaux de recherche (Licence)
+- Encadrement de mémoires et stages (Master PN4C ; MaSCO).

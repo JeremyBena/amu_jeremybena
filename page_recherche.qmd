@@ -2,8 +2,6 @@
 title: "Thématiques de recherche"
 ---
 
-En construction -- voir [CV](page_cv.qmd)
-
 _Principaux intérêts de recherche :  Mémoire, croyances, attitudes, et influence de la mémoire dans les croyances et attitudes._
 
 <div style="text-align: justify"> 
@@ -13,3 +11,5 @@ J'étudie la façon dont la mémoire est impliquée dans des évaluations (croya
 <div style="text-align: justify"> 
 Deux phénomènes m'intéressent particulièrement : l’effet de vérité (l'exposition répétée augmente la vérité perçue des informations) et l’effet de conditionnement évaluatif (les évaluations de stimuli initialement neutres sont davantage positives après l'exposition répétée d'un stimulus neutre avec un stimulus positif plutôt que négatif). 
 </div><br>
+
+Pour d'autres informations, voir [CV](page_cv.qmd).

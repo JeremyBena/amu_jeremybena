@@ -2,9 +2,13 @@
 title: "Publications"
 ---
 
-En construction -- voir [CV](page_cv.qmd#Articles-and-working-manuscripts)
+Pour d'autres informations, voir [CV](page_cv.qmd).
 
 # Articles and working manuscripts
+
+Aray, A., <b>Béna, J.</b>, Rouard, M., & Corneille, O. (2026). Repetition increases belief in food and nutrition (mis)information, but non-probative images may not. _Social Psychology_
+
+Fournier Bernard, C., <b>Béna, J.</b>, Navon, M., & Corneille, O. (preprint). Truth beliefs can be evaluatively conditioned. Preprint available at: [PsyArXiv version](https://osf.io/preprints/psyarxiv/7a6qb_v1) 
 
 Mattavelli, S., <b>Béna, J.</b>, Unkelbach, C., & Corneille, O. (preprint). Repetition increases perceived truth of interpersonal statements from both politically congruent and incongruent sources. Preprint available at: [PsyArXiv version](https://osf.io/preprints/psyarxiv/4pwq2) 
 

@@ -2,8 +2,6 @@
 title: "Page d'accueil : informations générales"
 ---
 
-**[Pages en développement]**
-
 Jérémy Béna, Maître de conférences en psychologie, Aix-Marseille Université, Centre de Recherche en Psychologie et Neurosciences (CRPN, UMR 7077).
 
 @ : <a href="mailto:jeremy.bena@univ-amu.fr">jeremy.bena@univ-amu.fr</a>
